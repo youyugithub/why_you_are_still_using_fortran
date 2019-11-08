@@ -1,5 +1,3 @@
-# why you are still using fortran?
-
 ```
 !!! display matrix
 subroutine print_double_matrix(BBB)
